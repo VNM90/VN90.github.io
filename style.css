@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Exo 2", sans-serif;
+  font-size: 1.8em;
+  margin-top: -0.9em;
+}
+#clock-color {
+  text-align: center;
+  position: relative;
+  top: 50%;
+}
